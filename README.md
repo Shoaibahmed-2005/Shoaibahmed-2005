@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Real-World+AI+Systems+%F0%9F%9A%80;Generative+AI+%7C+ML+%7C+Data+Analyst;Currently+Exploring+LLM+Fine-Tuning+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Real-World+AI+Systems+%F0%9F%9A%80;Generative+AI+%7C+ML+%7C+Data+Analysis;+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
   at BSA Crescent Institute of Science and Technology
 - 💡 I bridge the gap between experimental AI models and **production-ready solutions**
 - 🔭 Currently building agentic AI systems and data-driven applications
-- 🌱 Always exploring something new — right now it's **LLM fine-tuning & MLOps**
+- 🌱 Always exploring something 
 - 🤝 Open to collaborations, internships & interesting problems to solve
 - ⚡ Fun fact: I think in pipelines and dream in dataframes
 
